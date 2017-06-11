@@ -1,0 +1,192 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+/*NAV*/
+*{
+	font-family: 'Lato', sans-serif;
+	list-style: none;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar{
+	font-size: 17px;
+	text-shadow: 1px 2px #999;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+a.navbar-header {
+	margin-top: 10px;
+	margin-left: 184px;
+	color: white;
+	font-size: 20px;
+}
+
+.container-fluid {
+	margin-left: 20px;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+/*FIRST SECTION*/
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.first-section h1{
+	padding-top: 4em;
+	color: #FFF;
+	font-weight: 900;
+	font-size: 40px;
+}
+
+p#textmain{
+	color: #FFF;
+	font-weight: 400: 
+}
+
+.btn-primary{
+	background-color: #41521F;
+	border-color: #41521F;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+/*SECOND SECTION*/
+.second-section{
+	padding: 5em 0;
+}
+
+h2{
+	color: #A89F68;
+	font-size: 25px;
+}
+
+h3{
+	color: #A89F68;
+}
+
+
+/*THIRD SECTION*/
+.third-section {
+	padding: 5em 0;
+	background-color: #A89F68;
+}
+
+div.info3 h2{
+	color: white;
+}
+
+div.info3 h2{
+	color: #41521F;
+	font-weight: 700;
+}
+
+div.info3 p, div.info3 small{
+	color: white;
+}
+
+small{
+	font-size: 100%;
+}
+
+/*FOUR SECTION*/
+
+.four-section{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 5em 0;
+	background-position: center left;
+}
+
+small.texfour, h2.texfour, footer.texfour{
+	color: #fff;
+}
+
+/*FIVE SECTION*/
+
+.five-section{
+	padding: 5em 0;
+}
+
+i.fa {
+	font-size: 63px;
+	color: #A89F68;
+	margin-bottom: 28px;
+}
+
+a.visit{
+	color: #41521F;
+}
+
+/*SIX SECTION*/
+
+.six-section {
+	padding: 5em 0;
+	background-color: #A89F68;
+}
+
+h2.titlesix{
+	color: #41521F;
+	font-weight: 700;
+}
+
+p.price{
+	font-size: 80px;
+	color: white;
+}
+
+sub{
+	font-size: 15px;
+}
+
+sup{
+	font-size: 15px;
+	top: -3.5em;
+}
+
+/*SEVEN SECTION*/
+
+.seven-section {
+	padding: 5em 0;
+	background-color: #41521F;
+	color: #fff;
+}
+
+a{
+	color: #A89F68;
+}
+
+p.textseven{
+	color: #A89F68;
+	font-size: 14px;
+}
+
+.btn:hover{
+	color: #fff;
+	background-color: #A89F68;
+}
+
+a:hover{
+	color: #fff;
+}
