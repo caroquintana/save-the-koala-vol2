@@ -182,11 +182,20 @@ p.textseven{
 	font-size: 14px;
 }
 
-.btn:hover{
+a:hover{
+	color: #fff;
+}
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover{
+	background-color: #41521F;
+	color: #fff;
+}
+
+.btn-primary:hover{
 	color: #fff;
 	background-color: #A89F68;
 }
-
-a:hover{
+.well{
+	background-color: #41521F;
 	color: #fff;
 }
