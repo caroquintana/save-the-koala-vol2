@@ -186,11 +186,12 @@ a:hover{
 	color: #fff;
 }
 
+
+/*BOTONES Y COLLAPSE*/
 .btn-primary.focus, .btn-primary:focus, .btn-primary:hover{
 	background-color: #41521F;
 	color: #fff;
 }
-
 .btn-primary:hover{
 	color: #fff;
 	background-color: #A89F68;
